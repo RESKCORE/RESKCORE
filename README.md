@@ -16,9 +16,9 @@ I am a Final-year Computer Science undergraduate at **SRK Institute of Technolog
 
 - 💡 **Focus:** AI Engineering, Full-Stack SaaS Development, Machine Learning, and Quantum AI
 
-- 🌐 **Portfolio:** [resktree.vercel.app](https://resktree.vercel.app/)
+- 🌐 **Portfolio:** [resktree.vercel.app](https://reskcore.vercel.app/)
 
-- 🤝 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/reddy-santosh-kumar) | [Instagram](https://www.instagram.com/itzz_syntax_error/)
+- 🤝 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/reddy-santosh-kumar) 
 
 ---
 
