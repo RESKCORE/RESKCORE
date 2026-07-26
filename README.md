@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a Final-year Computer Science undergraduate at **SRK Institute of Technology** (2023 - 2027), passionate about building intelligent, scalable, and user-centric applications. My expertise lies at the intersection of modern web development and artificial intelligence, where I transform complex datasets into actionable insights and build production-ready AI tools.
+I'm **Reddy Santosh Kumar**, a Final-year Computer Science undergraduate at **SRK Institute of Technology** (2023 - 2027), passionate about building intelligent, scalable, and user-centric applications. My expertise lies at the intersection of modern web development and artificial intelligence, where I transform complex datasets into actionable insights and build production-ready AI tools.
 
 - 🎓 **Education:** B.Tech in Computer Science, SRK Institute of Technology (8.6/10 CGPA)
 
@@ -16,9 +16,9 @@ I am a Final-year Computer Science undergraduate at **SRK Institute of Technolog
 
 - 💡 **Focus:** AI Engineering, Full-Stack SaaS Development, Machine Learning, and Quantum AI
 
-- 🌐 **Portfolio:** [resktree.vercel.app](https://reskcore.vercel.app/)
+- 🌐 **Portfolio:** [reskcore.vercel.app](https://reskcore.vercel.app/)
 
-- 🤝 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/reddy-santosh-kumar) 
+- 🤝 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/reddy-santosh-kumar)
 
 ---
 
@@ -66,7 +66,7 @@ I am a Final-year Computer Science undergraduate at **SRK Institute of Technolog
 
 - [**Roastume**](https://github.com/RESKCORE/Roastume): A personality-packed AI resume reviewer that scores, roasts, and rewrites resumes based on user mood.
 
-- **Telegram & WhatsApp AI Chatbots**: Built using n8n workflow automations and OpenRouter’s GPT-based API.
+- **Telegram & WhatsApp AI Chatbots**: Built using n8n workflow automations and OpenRouter's GPT-based API.
 
 ---
 
